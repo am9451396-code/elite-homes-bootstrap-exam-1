@@ -1,0 +1,332 @@
+@media (hover: hover) {
+  .footer-social:hover {
+    background: var(--bs-violet-600);
+    transform: scale(1.1);
+    color: #fff;
+  }
+}
+
+@media (hover: hover) {
+  .contact-card:hover {
+    transform: translateY(-.5rem);
+  }
+  .contact-card.c-violet:hover {
+    border-color: var(--bs-violet-300);
+  }
+  .contact-card.c-purple:hover {
+    border-color: var(--bs-purple-300);
+  }
+  .contact-card.c-pink:hover {
+    border-color: var(--bs-pink-300);
+  }
+  .contact-card.c-indigo:hover {
+    border-color: var(--bs-indigo-300);
+  }
+  .contact-card:hover .icon-box-lg {
+    transform: scale(1.1);
+  }
+  .contact-link-violet:hover {
+    color: var(--bs-violet-700) !important;
+  }
+  .contact-link-purple:hover {
+    color: var(--bs-purple-700) !important;
+  }
+  .contact-link-indigo:hover {
+    color: var(--bs-indigo-700) !important;
+  }
+  .info-link:hover {
+    color: var(--bs-violet-600);
+  }
+  .social-btn:hover {
+    background: rgb(255 255 255 / .3);
+    transform: scale(1.1);
+    color: #fff;
+  }
+  .form-box .form-control:hover {
+    border-color: var(--bs-violet-300);
+    background-color: #fff;
+  }
+  .check:hover,
+  .check + label:hover {
+    cursor: pointer;
+  }
+  .check:hover {
+    box-shadow: 0 0 0 .25rem var(--bs-violet-100);
+  }
+  .contact-card:hover {
+    box-shadow: var(--bs-box-shadow-xl);
+  }
+  .contact-card:hover h3 {
+    color: var(--bs-violet-600);
+  }
+}
+
+@media (hover: hover) {
+  .faq .accordion-header:hover {
+    background-color: #f9fafb;
+  }
+  .faq .accordion-item:hover {
+    box-shadow: var(--bs-box-shadow-xl);
+    transform: translateY(-2px);
+  }
+  .faq .accordion-header:hover {
+    color: var(--bs-violet-600);
+  }
+  .faq .accordion-header:hover .accordion-icon {
+    color: var(--bs-violet-600);
+  }
+}
+
+@media (hover: hover) {
+  .t-arrow:hover {
+    background: rgb(255 255 255 / .35);
+  }
+  .t-dots label:hover {
+    opacity: 1;
+  }
+  .t-dots label:hover {
+    opacity: 1;
+    transform: scale(1.25);
+  }
+}
+
+@media (hover: hover) {
+  .service-tabs .nav-link:hover {
+    color: var(--bs-violet-600);
+    border-block-end-color: var(--bs-violet-300);
+    background-color: transparent;
+  }
+  #services-tabs .tab-content .btn:hover {
+    color: var(--bs-btn-color);
+    background-color: var(--bs-btn-bg);
+    border-color: var(--bs-btn-border-color);
+    transform: none;
+    box-shadow: none;
+  }
+}
+
+@media (hover: hover) {
+  .property-media:hover img {
+    transform: scale(1.1);
+  }
+  .icon-circle:hover i {
+    color: #ef4444;
+    transform: scale(1.15);
+  }
+  .property-card .btn-subtle:hover {
+    background-color: var(--bs-violet-600);
+    color: #fff;
+    transform: translateY(-1px);
+  }
+  .icon-circle:hover {
+    background: #fff;
+    box-shadow: var(--bs-box-shadow-lg);
+  }
+}
+
+@media (hover: hover) {
+  .search-card .form-control:hover {
+    border-color: var(--bs-violet-300);
+  }
+}
+
+@media (hover: hover) {
+  .site-nav .nav-link:hover {
+    color: var(--bs-violet-600);
+  }
+  .site-nav .nav-link:hover::after {
+    width: 100%;
+  }
+  #mobileMenu .nav-link:hover {
+    color: var(--bs-violet-600);
+    background-color: var(--bs-violet-050);
+  }
+  .mega-prop:hover {
+    background-color: #f9fafb;
+  }
+  .mega-link:hover {
+    color: var(--bs-violet-600);
+  }
+  .mega-link:hover i {
+    color: var(--bs-violet-500) !important;
+  }
+  .loc-tile:hover::before {
+    background: linear-gradient(90deg, #4c1d95e6, #581c87e6);
+  }
+  .resource-card:hover {
+    transform: translateY(-2px);
+  }
+  .resource-card.rc-violet:hover {
+    border-color: var(--bs-violet-200);
+  }
+  .resource-card.rc-green:hover {
+    border-color: var(--bs-green-200);
+  }
+  .resource-card.rc-purple:hover {
+    border-color: var(--bs-purple-200);
+  }
+  .resource-card:hover .blob {
+    opacity: .75;
+  }
+  .resource-card.rc-violet:hover .rc-title {
+    color: var(--bs-violet-600);
+  }
+  .resource-card.rc-green:hover .rc-title {
+    color: var(--bs-green-600);
+  }
+  .resource-card.rc-purple:hover .rc-title {
+    color: var(--bs-purple-600);
+  }
+  .resource-card:hover .arrow {
+    transform: translateX(.25rem);
+  }
+  .mobile-menu summary:hover {
+    color: var(--bs-violet-600);
+    background-color: var(--bs-violet-050);
+  }
+  .mobile-menu .nav-link:hover {
+    padding-inline-start: 1.25rem;
+  }
+}
+
+@media (hover: hover) {
+  .btn-gradient:hover {
+    background-image: linear-gradient(90deg, var(--bs-violet-700), var(--bs-purple-700));
+    color: #fff;
+    box-shadow: var(--bs-box-shadow-lg);
+  }
+  .btn-lift:hover {
+    transform: translateY(-.25rem);
+    box-shadow: var(--bs-box-shadow-lg);
+  }
+  
+  .kicker-pill:hover {
+    background: var(--bs-violet-100);
+    border-color: var(--bs-violet-300);
+  }
+}
+
+@media (hover: none) {
+  .footer-social:active {
+    transform: scale(.92);
+  }
+}
+
+
+@media (hover: none) {
+  .contact-card:active {
+    transform: scale(.98);
+  }
+  .social-btn:active {
+    transform: scale(.92);
+  }
+}
+
+@media (width >=1024px) {
+  .decor {
+    display: block;
+  }
+}
+
+@media (width < 576px) {
+  .faq .accordion-header {
+    padding: 1.25rem 1.25rem;
+    font-size: 1.05rem;
+  }
+  .faq .accordion-body {
+    padding: 1rem 1.25rem 1.25rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .t-track,
+  .t-dots label {
+    animation: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .t-track {
+    transition: none;
+  }
+}
+
+@media (width >=768px) {
+  .t-slide {
+    padding-inline: 4.5rem;
+  }
+}
+
+@media (width < 768px) {
+  .service-tabs {
+    justify-content: flex-start;
+  }
+}
+
+@media (width < 1024px) {
+  .float-stat.left {
+    left: 1rem;
+  }
+  .float-stat.right {
+    right: 1rem;
+  }
+}
+
+@media (width < 576px) {
+  .service-img {
+    height: 16rem;
+  }
+}
+
+@media (hover: hover) and (width >=1024px) {
+  /* Parallax only where it is smooth (fixed backgrounds are janky on touch devices) */
+  .hero {
+    background-attachment: fixed;
+  }
+}
+
+@media (hover: none) {
+  .resource-card:active {
+    transform: scale(.98);
+  }
+}
+
+@media (width >=1024px) {
+  .mobile-menu:target {
+    display: none;
+  }
+}
+
+@media (hover: none) {
+  
+  .btn-lift:active {
+    transform: scale(.98);
+  }
+}
+
+@media (width < 480px) {
+  .kicker-line {
+    width: 2rem;
+  }
+}
+
+
+@media (width < 768px) {
+  .section {
+    padding-block: 3.5rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: .01ms ;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
